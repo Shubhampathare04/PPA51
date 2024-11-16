@@ -1,0 +1,7 @@
+class TreadDemo1
+{
+    public static void main(String A[])
+    {
+        System.out.println("Name of current thread is "+T)
+    }
+}
